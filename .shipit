@@ -1,3 +1,4 @@
 steps = FindVersion, ChangeVersion, CheckChangeLog, DistTest, Commit, Tag, MakeDist
 svn.tagpattern = release-%v
+UploadCPAN.user = sixapart
 CheckChangeLog.files = Changes
