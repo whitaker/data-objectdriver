@@ -12,6 +12,8 @@ sign(1);
 
 include('ExtUtils::AutoInstall');
 
+githubmeta;
+
 requires('DBI');
 requires('Class::Accessor::Fast');
 requires('Class::Data::Inheritable');

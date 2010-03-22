@@ -785,9 +785,12 @@ reporting bugs.
 
 L<http://code.sixapart.com/>
 
+Alternatively you can fork our git repositories. See the full list at:
+http://github.com/sixapart
+
 =head1 AUTHOR & COPYRIGHT
 
-Except where otherwise noted, I<Data::ObjectDriver> is Copyright 2005-2006
+Except where otherwise noted, I<Data::ObjectDriver> is Copyright 2005-2010
 Six Apart, cpan@sixapart.com. All rights reserved.
 
 =cut
